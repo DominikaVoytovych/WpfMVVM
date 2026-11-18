@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+App_Data/
+SalonTemplate.Web/wwwroot/uploads/*
+!SalonTemplate.Web/wwwroot/uploads/.gitkeep
